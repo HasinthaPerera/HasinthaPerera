@@ -13,8 +13,8 @@ I’m passionate about software development, game programming, and exploring new
 
 ### 🚀 About Me
 - 🎓 Information Systems Student / Developer.
-- 💻 Love working with *Java, **Swing, and **Game Development*
 - 🎓 Undergraduate at University of Sabaragamuwa Sri Lanka.
+- 💻 Love working with *Java, **Swing, and **Game Development*
 - 🧩 Interested in Web Development, Game Programming, Exploring New Technologies.
 
 ---
