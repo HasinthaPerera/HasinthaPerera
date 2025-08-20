@@ -10,10 +10,10 @@ I’m passionate about software development, game programming, and exploring new
 ---
 
 ### 🚀 About Me
-- 🎓 Student / Developer
+- 🎓 Information Systems Student / Developer.
 - 💻 Love working with *Java, **Swing, and **Game Development*
-- 🎮 Currently building 2D Maze and Temple Run-style games
-- 🧩 Interested in AI & Chess programming
+- 🎓 Undergraduate at University of Sabaragamuwa Sri Lanka.
+- 🧩 Interested in Web Development, Game Programming, Exploring New Technologies.
 
 ---
 
@@ -21,7 +21,8 @@ I’m passionate about software development, game programming, and exploring new
 - Figma  
 - React  
 - Front-end Development  
-- Mobile App Development  
+- Mobile App Development
+    
 
 ---
 
