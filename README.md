@@ -1,6 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=70&lines=Hasintha+Heshan;Full-Stack+Developer;Game+Programmer;Problem+Solver" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=40&duration=3000&pause=1000&color=FF5733&color=33FF57&color=3357FF&center=true&vCenter=true&width=600&height=70&lines=Hasintha+Heshan;Full-Stack+Developer;Game+Programmer;Problem+Solver" />
+
 </h1>
+
 
 #  Hello, I'm *Hasintha Heshan*
 
@@ -35,11 +37,7 @@ I’m passionate about software development, game programming, and exploring new
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -50,7 +48,7 @@ I’m passionate about software development, game programming, and exploring new
 ### 📫 Connect with Me
 - 🌐 [GitHub Profile](https://github.com/HasinthaPerera)
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/hasintha-heshan-42395037a)
-- ✉ *hasinthaperera2806@gmail.com*
+- ✉ *hasinthaheshan15@gmail.com*
 
 ---
 
