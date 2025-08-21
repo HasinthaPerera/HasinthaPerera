@@ -15,6 +15,7 @@ I’m passionate about software development, game programming, and exploring new
 - 🎓 Information Systems Student / Developer.
 - 🎓 Undergraduate at University of Sabaragamuwa Sri Lanka.
 - 🧩 Interested in Web Development, Game Programming, Exploring New Technologies.
+- 🍃 When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or hiking in the beautiful landscapes of Sri Lanka.
 
 ---
 
