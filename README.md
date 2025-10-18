@@ -1,10 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=40&duration=3000&pause=1000&color=FF5733&color=33FF57&color=3357FF&center=true&vCenter=true&width=600&height=70&lines=Hasintha+Heshan;Full-Stack+Developer;Game+Programmer;Problem+Solver" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=40&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&height=70&lines=Hasintha+Heshan;Full-Stack+Developer;Game+Programmer;Problem+Solver" />
 </h1>
 
-
-#  Hello, I'm *Hasintha Heshan*
+# 👋 Hello, I'm *Hasintha Heshan*
 
 Welcome to my GitHub profile!  
 I’m passionate about software development, game programming, and exploring new technologies.
@@ -12,9 +10,9 @@ I’m passionate about software development, game programming, and exploring new
 ---
 
 ### 🚀 About Me
-- 🎓 Information Systems Student / Developer.
-- 🎓 Undergraduate at University of Sabaragamuwa Sri Lanka.
-- 🧩 Interested in Web Development, Game Programming, Exploring New Technologies.
+- 🎓 Information Systems Student / Developer.  
+- 🎓 Undergraduate at University of Sabaragamuwa Sri Lanka.  
+- 🧩 Interested in Web Development, Game Programming, Exploring New Technologies.  
 - 🍃 When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or hiking in the beautiful landscapes of Sri Lanka.
 
 ---
@@ -24,7 +22,6 @@ I’m passionate about software development, game programming, and exploring new
 - React  
 - Front-end Development  
 - Mobile App Development
-    
 
 ---
 
@@ -45,6 +42,26 @@ I’m passionate about software development, game programming, and exploring new
 
 ---
 
+## 📊 My GitHub Stats
+
+<div align="center">
+
+<!-- GitHub Readme Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=HasinthaPerera&show_icons=true&theme=radical" alt="Hasintha's GitHub stats" width="48%" />
+
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HasinthaPerera&theme=radical" alt="GitHub Streak" width="48%" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasinthaPerera&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HasinthaPerera&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="98%" />
+
+</div>
+
+---
+
 ### 📫 Connect with Me
 - 🌐 [GitHub Profile](https://github.com/HasinthaPerera)
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/hasintha-heshan-42395037a)
@@ -52,4 +69,5 @@ I’m passionate about software development, game programming, and exploring new
 
 ---
 
-✨ Thanks for visiting my profile!
+✨ *Thanks for visiting my profile!*
+
