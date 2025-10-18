@@ -1,8 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=40&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&height=70&lines=Hasintha+Heshan;Full-Stack+Developer;Game+Programmer;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=40&duration=3000&pause=1000&color=FF5733&color=33FF57&color=3357FF&center=true&vCenter=true&width=600&height=70&lines=Hasintha+Heshan;Full-Stack+Developer;Game+Programmer;Problem+Solver" />
+
 </h1>
 
-# 👋 Hello, I'm *Hasintha Heshan*
+
+#  Hello, I'm *Hasintha Heshan*
 
 Welcome to my GitHub profile!  
 I’m passionate about software development, game programming, and exploring new technologies.
